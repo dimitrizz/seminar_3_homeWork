@@ -1,0 +1,15 @@
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\bin\Debug\net7.0\Example_1.exe
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\bin\Debug\net7.0\Example_1.deps.json
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\bin\Debug\net7.0\Example_1.runtimeconfig.json
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\bin\Debug\net7.0\Example_1.dll
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\bin\Debug\net7.0\Example_1.pdb
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\Example_1.csproj.AssemblyReference.cache
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\Example_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\Example_1.AssemblyInfoInputs.cache
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\Example_1.AssemblyInfo.cs
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\Example_1.csproj.CoreCompileInputs.cache
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\Example_1.dll
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\refint\Example_1.dll
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\Example_1.pdb
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\Example_1.genruntimeconfig.cache
+C:\Users\dimit\OneDrive\Рабочий стол\Lessons\Lesson_3\Lesson_3.0\Example_1\obj\Debug\net7.0\ref\Example_1.dll
